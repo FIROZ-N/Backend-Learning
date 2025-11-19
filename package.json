@@ -1,0 +1,19 @@
+{
+  "name": "backend-learning",
+  "version": "1.0.0",
+  "description": "Backend Learning Class 01",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FIROZ-N/Backend-Learning.git"
+  },
+  "author": "Firos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FIROZ-N/Backend-Learning/issues"
+  },
+  "homepage": "https://github.com/FIROZ-N/Backend-Learning#readme"
+}
